@@ -1,5 +1,8 @@
 #include <stdio.h>
+#include <math.h>
 
 int main(){
-    printf("Hello Word");
+    int n1=10;
+   printf("%d", 2++n2);
+    
 }
