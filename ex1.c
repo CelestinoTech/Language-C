@@ -20,7 +20,7 @@ int main(){
     n1 = n2;
     n2 = ntroca;
     
-    printf("Trocando numeros\n");
+    printf("Trocando numeros...\n");
     Sleep(5000);
     printf("Primeiro Numero: %d\n Segundo Numero: %d\n",n1,n2);
 
