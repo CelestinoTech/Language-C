@@ -7,6 +7,6 @@ int main(){
     printf("Digite seu peso: \n");
     printf("Digite sua altura: \n");
 
-    imc = 
+    
 
 }
